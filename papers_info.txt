@@ -1,0 +1,220 @@
+=== 01_SpaLLM_Guard_SMS_Spam_Detection_2025.pdf ===
+SpaLLM-Guard: Pairing SMS Spam Detection Using Open-source
+and Commercial LLMs
+Muhammad Salman
+Macquarie University
+Sydney, Australia
+muhammad.salman@mq.edu.auMuhammad Ikram
+Macquarie University
+Sydney, Australia
+muhammad.ikram@mq.edu.au
+Nardine Basta
+Macquarie University
+Sydney, Australia
+nardine.basta@mq.edu.auMohamed Ali Kaafar
+Macquarie University
+Sydney, Australia
+dali.kaafar@mq.edu.au
+ABSTRACT
+The increasing threat of SMS spam, driven by evolving adversarial
+techniques and concept drift, calls for more robust and adaptive
+detection methods. In this paper, we evaluate the potential of large
+language models (LLMs), both open-source and commercial, for
+SMS spam detection, comparing their performance across zero-shot,
+few-shot, fine-tuning, and chain-of-thought prompting approaches.
+Usin
+
+=== 02_Enhancing_SMS_Spam_Detection_Cybersecurity_2025.pdf ===
+Leveraging Large Language Models for
+Cybersecurity: Enhancing SMS Spam Detection
+with Robust and Context-Aware Text Classification
+1stMohsen Ahmadi
+Dept. Electrical Engineering and Computer Science
+Florida Atlantic University
+FL, USA
+mahmadi2021@fau.edu
+Corresponding author2ndMatin Khajavi
+Foster School of Businesses
+University of Washington
+Washington, USA3ndAbbas Varmaghani
+Dept. Computer Engineering
+Islamic Azad University of Hamadan
+Hamedan, Iran
+4rdAli Ala
+Dept. Mechanical Engineering
+University College Dublin
+Dublin, Ireland5ndKasra Danesh
+Dept.Electrical and Computer Science
+Florida Atlantic University
+FL, USA6thDanial Javaheri
+Dept. Electrical and Computer Science
+Korea University
+Seoul 02841, Republic of Korea
+Abstract —This study evaluates the effectiveness of different
+feature e
+
+=== 03_Explainable_SMS_Spam_Detection_XAI_2024.pdf ===
+ExplainableDetector: Exploring Transformer-based Language
+Modeling Approach for SMS Spam Detection with Explainability
+Analysis
+Mohammad Amaz Uddina, Muhammad Nazrul Islamb, Leandros Maglarasc, Helge Janickedand
+Iqbal H. Sarkerd,∗
+aDepartment of Computer Science and Engineering, BGC Trust University Bangladesh, Chittagong, 4381, Bangladesh
+bDepartment of Computer Science and Engineering, Military Institute of Science and Technology, Dhaka, 1216, Bangladesh
+cSchool of Computing, Edinburgh Napier University, UK
+dCentre for Securing Digital Futures, Edith Cowan University, Perth, WA-6027, Australia
+ARTICLE INFO
+Keywords :
+Cybersecurity
+Machine Learning (ML)
+Large Language Model (LLM)
+Spam Detection
+Explainable AI (XAI)
+RoBERTa
+TransformersABSTRACT
+SMS,orshortmessagingservice,isawidelyusedandc
+
+=== 04_SMS_Spam_Detection_NLP_Combating_Abuse_2024.pdf ===
+________________________________________  
+ 
+*Corresponding author: Email: adebolak.ojo@gmail.com ; 
+ 
+J. Adv. Math. Com. Sci. , vol. 38, no. 10, pp. 144-156, 2023 
+ 
+ 
+ 
+Journal of Advances in Mathematics and Computer Science  
+ 
+Volume 38, Issue 10, Page 144-156, 2023; Article no.JAMCS.108409  
+ISSN: 2456 -9968  
+(Past name: British Journal of Mathematics & Computer Science, Past ISSN: 2231 -0851)  
+ 
+_____________________________________________________________________________________________________________________________ __________  
+ 
+SMS Spam Detection and Classification to 
+Combat Abuse in Telephone Networks 
+Using Natural Language Processing  
+ 
+Dare Azeez  Oyeyemi  a and Adebola K. Ojo  a* 
+ 
+a Computer Science Department, University of Ibadan, Nigeria . 
+ 
+Authors’ contribution
+
+=== 05_Empirical_Analysis_SMS_Scam_Detection_2022.pdf ===
+An Empirical Analysis of SMS Scam Detection Systems
+Muhammad Salman
+Macquarie University
+Sydney, Australia
+muhammad.salman2@students.mq.edu.auMuhammad Ikram
+Macquarie University
+Sydney, Australia
+muhammad.ikram@mq.edu.auMohamed Ali Kaafar
+Macquarie University
+Sydney, Australia
+dali.kaafar@mq.edu.au
+ABSTRACT
+The short message service (SMS) was introduced a generation ago to
+the mobile phone users. They make up the world’s oldest large-scale
+network, with billions of users and therefore attracts a lot of fraud.
+Due to the convergence of mobile network with internet, SMS based
+scams can potentially compromise the security of internet services
+as well. In this study, we present a new SMS scam dataset consisting
+of 153,551 SMSes. This dataset that we will release publicly for re-
+search purpose
+
+=== 06_Twitter_Guided_SMS_Spam_Discovery_2022.pdf ===
+Clues in Tweets: Twi￿er-Guided Discovery and Analysis of SMS
+Spam
+Siyuan Tang
+Indiana University Bloomington
+tangsi@iu.eduXianghang Mi∗
+University of Science and Technology
+of China
+xmi@ustc.edu.cnYing Li
+SKLOIS, Institute of Information
+Engineering, CAS
+liying1998@iie.ac.cn
+XiaoFeng Wang
+Indiana University Bloomington
+xw7@indiana.eduKai Chen†‡
+SKLOIS, Institute of Information
+Engineering, CAS
+chenkai@iie.ac.cn
+ABSTRACT
+With its critical role in business and service delivery through mobile
+devices, SMS (Short Message Service) has long been abused for
+spamming, which is still on the rise today possibly due to the
+emergence of A2P bulk messaging. The e￿ort to control SMS spam
+has been hampered by the lack of up-to-date information about
+illicit activities. In our research, we proposed a nove
+
+=== 07_Adversarial_Attacks_in_SMS_Spam_Detection_2021.pdf ===
+Using BERT Encoding to Tackle the
+Mad-lib Attack in SMS Spam Detection
+Sergio Rojas{Galeano
+Universidad Distrital Francisco Jos e de Caldas, Bogot a, Colombia
+srojas@udistrital.edu.co
+Abstract. One of the stratagems used to deceive spam lters is to sub-
+stitute vocables with synonyms or similar words that turn the message
+unrecognisable by the detection algorithms. In this paper we investigate
+whether the recent development of language models sensitive to the se-
+mantics and context of words, such as Google's BERT, may be useful to
+overcome this adversarial attack (called \Mad-lib" as per the word sub-
+stitution game). Using a dataset of 5572 SMS spam messages, we rst
+established a baseline of detection performance using widely known doc-
+ument representation models (BoW and TFIDF) a
+
+=== 08_Fast_Text_Classification_Naive_Bayes_SMPC_2021.pdf ===
+Asymmetrical Bi-RNN for pedestrian trajectory
+encoding
+Rapha ¨el Rozenberg1,2*, Joseph Gesnouin2,3, and Fabien Moutarde2
+1´Ecole Normale Sup ´erieure - Universit ´e PSL, 75005 Paris, France
+2Centre de Robotique, MINES ParisTech - Universit ´e PSL, 75006 Paris, France
+3Institut Vedecom, 78000 Versailles, France
+Abstract —Pedestrian motion behavior involves a combination
+of individual goals and social interactions with other agents.
+In this article, we present an asymmetrical bidirectional re-
+current neural network architecture called U-RNN to encode
+pedestrian trajectories and evaluate its relevance to replace
+LSTMs for various forecasting models. Experimental results
+on the Trajnet++ benchmark show that the U-LSTM variant
+yields better results regarding every available metrics (ADE,
+FDE, 
+
+=== 09_SMS_Spam_Filtering_Topic_Modelling_2016.pdf ===
+SMS Spam Filtering using Probabilistic Topic
+Modelling and Stacked Denoising Autoencoder
+Noura Al Moubayed, Toby Breckon, Peter Matthews, and A. Stephen
+McGough
+School of Engineering and Computing Sciences,
+Durham University, DH1 3LE Durham, UK
+{noura.al-moubayed,toby.breckon,
+peter.matthews,stephen.mcgough}@durham.ac.uk
+Abstract. In This paper we present a novel approach to spam ltering
+and demonstrate its applicability with respect to SMS messages. Our
+approach requires minimum features engineering and a small set of la-
+belled data samples. Features are extracted using topic modelling based
+on latent Dirichlet allocation, and then a comprehensive data model is
+created using a Stacked Denoising Autoencoder (SDA). Topic modelling
+summarises the data providing ease of use and high interpr
+
+=== 10_Naive_Bayes_and_Text_Classification_2017.pdf ===
+Naive Bayes and Text Classication I
+Introduction and Theory
+Sebastian Raschka
+se.raschka@gmail.com
+October 4, 2014
+Contents
+1 Introduction 2
+2 Naive Bayes Classication 3
+2.1 Overview . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+2.2 Posterior Probabilities . . . . . . . . . . . . . . . . . . . . . . . . 3
+2.3 Class-conditional Probabilities . . . . . . . . . . . . . . . . . . . 5
+2.4 Prior Probabilities . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+2.5 Evidence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+2.6 Multinomial Naive Bayes - A Toy Example . . . . . . . . . . . . 9
+2.6.1 Maximum-Likelihood Estimates . . . . . . . . . . . . . . . 10
+2.6.2 Classication . . . . . . . . . . . . . . . . . . . . . . . . . 11
+2.6.3 Additive Smoothing . . 
+
